@@ -1,38 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse Project
+# Hello World Microverse Project Day 2
 
-> The first part of this project shows the implementation of Linters and .gitignore file.In the second part 3 files were made in features branch.
-> Index.html has a heading which shows "Hello Microverse". In style.css file colour of the heading was set. Lastly the test.md file was ignored by putting in .gitignore file.
+> This is a simple hello World Microverse project where linters are implemented and pull requests are used.
 
 
 ## Built With
 
 - HTML & CSS
 
+## Live Demo
+
+[Hello Microverse](https://usamamaliq.github.io/Hello-World/)
+
 
 ## Getting Started
 
-**After cloning the repository, you will need to install nodist and node on your work machine.**
-
+**This is a simple project of Microverse Day 2 Activity relating Linters.
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-You need to have understanding of HTML CSS GIT and GITHUB
+
 ### Setup
-You will have to intall GIT and setup your GITHUB account. You will also need to install a code editor
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@usamamaliq](https://github.com/usamamalie)
+- GitHub: [@usamamaliq](https://github.com/usamamaliq)
 - Twitter: [@usamamaliq](https://twitter.com/usamamaliq)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/usamamaliq)
-
 
 
 ## 🤝 Contributing
@@ -47,4 +56,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse Community
+- Microverse 2nd Day Project
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
